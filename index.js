@@ -1,5 +1,5 @@
-let row=parseInt(prompt("enter no. of rows"))
-let col=parseInt(prompt("enter no. of col"))
+let row=parseInt(prompt("enter no. of rows in array"))
+let col=parseInt(prompt("enter no. of col in array"))
 let arr=[]
 
 ////creating 2d array
